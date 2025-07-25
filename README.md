@@ -14,12 +14,21 @@ Just built ChitChat, a real-time chat application using the MERN stack, along wi
 Implemented secure login/signup using JWT tokens, protected routes, and password hashing with bcrypt. Only authenticated users can access chats, search users, and perform sensitive actions.
 
 📡 Key Features & Challenges Overcome:
+
 ✅ Real-time messaging with live updates
+
 ✅ User authentication & protected routes
+
 ✅ Dynamic user search and filtering
+
 ✅ Global state management with Zustand
+
 ✅ Responsive UI with DaisyUI
+
 ✅ Profile photo upload and display
+
 ✅ Light/Dark + 30 themes for better UX
+
 ✅ RESTful API integration with robust error handling
+
 
